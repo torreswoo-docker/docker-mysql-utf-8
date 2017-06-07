@@ -8,3 +8,4 @@ WORKDIR /etc/mysql
 
 ADD ./my.cnf /etc/mysql/
 
+EXPOSE 3306
